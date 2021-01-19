@@ -2,7 +2,7 @@
   "perl" : "6.*",
   "name" : "Digest::FNV",
   "version" : "0.1.0",
-  "auth" : "github:tony-o",
+  "auth" : "zef:tony-o",
   "description" : "FNV[1|0|1a] for the masses",
   "depends" : [],
   "provides" : {
